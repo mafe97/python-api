@@ -1,7 +1,10 @@
 # python-api
 BackEnd with PYTHON (API)
 
-Install library requests
+####**Install library requests**
+---
 $ pip install requests
-execute the file python
+
+####**Execute the file python**
+---
 $ python namefile.py
