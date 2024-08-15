@@ -7,4 +7,4 @@ $ pip install requests
 
 **Execute the file python**
 ---
-$ python namefile.py
+$ python filename.py
